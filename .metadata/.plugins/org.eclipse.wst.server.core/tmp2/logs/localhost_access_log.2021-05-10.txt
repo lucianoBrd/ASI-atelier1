@@ -1,0 +1,6 @@
+127.0.0.1 - - [10/May/2021:15:08:13 +0200] "GET / HTTP/1.1" 404 681
+127.0.0.1 - - [10/May/2021:15:08:14 +0200] "GET /MavenWebDynamicProjet/ HTTP/1.1" 404 707
+127.0.0.1 - - [10/May/2021:15:08:26 +0200] "GET /MavenWebDynamicProjet/ HTTP/1.1" 404 707
+127.0.0.1 - - [10/May/2021:15:08:27 +0200] "GET /MavenWebDynamicProjet/ HTTP/1.1" 404 707
+127.0.0.1 - - [10/May/2021:15:09:28 +0200] "GET /MavenWebDynamicProjet/ HTTP/1.1" 404 707
+127.0.0.1 - - [10/May/2021:15:09:30 +0200] "GET /MavenWebDynamicProjet/ HTTP/1.1" 404 707
